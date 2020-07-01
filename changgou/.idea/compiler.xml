@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="changgou-common-db" />
         <module name="changgou" />
         <module name="changgou-eureka" />
         <module name="changgou-common" />
@@ -18,6 +19,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="changgou-common" options="-parameters" />
+      <module name="changgou-common-db" options="-parameters" />
       <module name="changgou-eureka" options="-parameters" />
     </option>
   </component>

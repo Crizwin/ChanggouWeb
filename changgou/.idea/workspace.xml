@@ -29,7 +29,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou-parent/changgou-common/src/main/java/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou-parent/changgou-service-api/changgou-service-goods-api/src/main/java/com/changgou/goods/pojo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -96,7 +96,7 @@
       <workItem from="1593259791117" duration="753000" />
       <workItem from="1593260576696" duration="135000" />
       <workItem from="1593261220004" duration="2643000" />
-      <workItem from="1593263896080" duration="2924000" />
+      <workItem from="1593263896080" duration="5003000" />
     </task>
     <servers />
   </component>
@@ -148,13 +148,13 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="182" y="38" key="Maven.ArtifactSearchDialog/0.0.1304.768@0.0.1304.768" timestamp="1593260596670" />
-    <state x="132" y="0" key="SettingsEditor" timestamp="1593529185869">
+    <state x="132" y="0" key="SettingsEditor" timestamp="1593619094924">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="132" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1593529185869" />
-    <state x="22" y="77" key="new project wizard" timestamp="1593528972992">
+    <state x="132" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1593619094924" />
+    <state x="22" y="77" key="new project wizard" timestamp="1593618871854">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="22" y="77" key="new project wizard/0.0.1304.768@0.0.1304.768" timestamp="1593528972992" />
+    <state x="22" y="77" key="new project wizard/0.0.1304.768@0.0.1304.768" timestamp="1593618871854" />
   </component>
 </project>
