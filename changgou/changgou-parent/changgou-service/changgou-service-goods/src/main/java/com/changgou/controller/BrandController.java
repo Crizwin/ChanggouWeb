@@ -1,12 +1,11 @@
 package com.changgou.controller;
 
+
 import com.changgou.goods.pojo.Brand;
 import com.changgou.service.BrandService;
 import com.github.pagehelper.PageInfo;
 import entity.Result;
 import entity.StatusCode;
-import io.swagger.models.auth.In;
-import jdk.net.SocketFlow;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -30,6 +29,7 @@ public class BrandController {
     @GetMapping(value = "/{id}")
     public Result<Brand> findById(@PathVariable(value = "id")Integer id){
         Brand brand = brandService.findById(id);
+        //int w=10/0;
         //x响应数据封装
         return new Result<Brand>(true, StatusCode.OK,"根据ID查询品牌成功",brand);
     }
