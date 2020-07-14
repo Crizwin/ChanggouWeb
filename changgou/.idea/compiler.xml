@@ -11,6 +11,7 @@
         <module name="changgou-service-goods-api" />
         <module name="changgou-common-db" />
         <module name="changgou-common" />
+        <module name="changgou-service-file" />
         <module name="changgou-service-goods" />
         <module name="changgou-eureka" />
       </profile>
@@ -24,6 +25,7 @@
       <module name="changgou-common" options="-parameters" />
       <module name="changgou-common-db" options="-parameters" />
       <module name="changgou-eureka" options="-parameters" />
+      <module name="changgou-service-file" options="-parameters" />
       <module name="changgou-service-goods" options="-parameters" />
       <module name="changgou-service-goods-api" options="-parameters" />
     </option>
